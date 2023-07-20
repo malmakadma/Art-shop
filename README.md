@@ -13,3 +13,7 @@ This repository contains the project for "Art Shop," a web store that allows use
 - **Access Restrictions:** The project implements access restrictions to certain pages based on the user's authentication status. Only authenticated users have access to specific functionalities and can complete purchases.
 
 - **User Profile:** Users have a personal profile where they can fill in their personal information, including a profile description. The profile description has a minimum length requirement of 50 characters. Users also have the ability to upload a profile picture to their personal profile.
+
+## Video Demo
+
+Click [here](https://youtu.be/c25JpmYuH7Y) to watch a video demonstration of the Art Shop web store. The video showcases the main features of the project, and it will guide you through the process of using the web store and making a purchase.
